@@ -1,0 +1,6 @@
+SampleID,Tissue,Factor,Condition,Treatment,Replicate,bamReads,ControlID,bamControl,Peaks,PeakCaller
+dnase_st8p_mPS_LOF_1,xenTro_st8p,dnase,wild-type,mPS_LOF,1,dnase_mPS_LOF_st8p_exp1_xt71_r1.bam,dnase_naked_gDNA,dnase_naked_gDNA_xt71_r1.bam,./xenTro71/supplementary_files/dhs_minPeakScore5.bed,bed
+dnase_st8p_mPS_LOF_2,xenTro_st8p,dnase,wild-type,mPS_LOF,2,dnase_mPS_LOF_st8p_exp2_xt71_r1.bam,dnase_naked_gDNA,dnase_naked_gDNA_xt71_r1.bam,./xenTro71/supplementary_files/dhs_minPeakScore5.bed,bed
+dnase_st8p_ctrl_1,xenTro_st8p,dnase,wild-type,none,1,dnase_ctrl_st8p_exp1_xt71_r1.bam,dnase_naked_gDNA,dnase_naked_gDNA_xt71_r1.bam,./xenTro71/supplementary_files/dhs_minPeakScore5.bed,bed
+dnase_st8p_ctrl_2,xenTro_st8p,dnase,wild-type,none,2,dnase_ctrl_st8p_exp2_xt71_r1.bam,dnase_naked_gDNA,dnase_naked_gDNA_xt71_r1.bam,./xenTro71/supplementary_files/dhs_minPeakScore5.bed,bed
+dnase_st8p_naked,xenTro_st8p,dnase,wild-type,naked,1,dnase_naked_gDNA_xt71_r1.bam,dnase_naked_gDNA,dnase_naked_gDNA_xt71_r1.bam,./xenTro71/supplementary_files/dhs_minPeakScore5.bed,bed

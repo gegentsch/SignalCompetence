@@ -1,0 +1,5 @@
+sampleName,condition,stage,replicate
+c1,ctrl,10,A
+c2,ctrl,10,B
+oe1,oe,10,A
+oe2,oe,10,B

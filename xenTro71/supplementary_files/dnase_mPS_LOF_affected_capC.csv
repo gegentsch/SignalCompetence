@@ -1,0 +1,7 @@
+SampleID,Tissue,Factor,Condition,Treatment,Replicate,bamReads,ControlID,bamControl,Peaks,PeakCaller
+capC_mPS_LOF_st8p_1,xenTro_st8p,capC,wild-type,mPS_LOF,1,capC_mPS_LOF_st8p_1_xt71.bam,,,./xenTro71/supplementary_files/dhs_mPS_LOF_affected.bed,bed
+capC_mPS_LOF_st8p_2,xenTro_st8p,capC,wild-type,mPS_LOF,2,capC_mPS_LOF_st8p_2_xt71.bam,,,./xenTro71/supplementary_files/dhs_mPS_LOF_affected.bed,bed
+capC_mPS_LOF_st8p_3,xenTro_st8p,capC,wild-type,mPS_LOF,3,capC_mPS_LOF_st8p_3_xt71.bam,,,./xenTro71/supplementary_files/dhs_mPS_LOF_affected.bed,bed
+capC_ctrl_st8p_1,xenTro_st8p,capC,wild-type,none,1,capC_ctrl_st8p_1_xt71.bam,,,./xenTro71/supplementary_files/dhs_mPS_LOF_affected.bed,bed
+capC_ctrl_st8p_2,xenTro_st8p,capC,wild-type,none,2,capC_ctrl_st8p_2_xt71.bam,,,./xenTro71/supplementary_files/dhs_mPS_LOF_affected.bed,bed
+capC_ctrl_st8p_3,xenTro_st8p,capC,wild-type,none,3,capC_ctrl_st8p_3_xt71.bam,,,./xenTro71/supplementary_files/dhs_mPS_LOF_affected.bed,bed

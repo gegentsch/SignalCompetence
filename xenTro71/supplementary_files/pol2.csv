@@ -1,0 +1,7 @@
+SampleID,Tissue,Factor,Condition,Treatment,Replicate,bamReads,ControlID,bamControl,Peaks,PeakCaller
+Pol2_st6,XenTro_st6,Pol2,none,none,1,pol2_st6_xt71.bam,Input,input_st6to12_xt71.bam,./xenTro71/supplementary_files/pol2_st6to12_crm.bed,bed
+Pol2_st7,XenTro_st7,Pol2,none,none,1,pol2_st7_xt71.bam,Input,input_st6to12_xt71.bam,./xenTro71/supplementary_files/pol2_st6to12_crm.bed,bed
+Pol2_st8,XenTro_st8,Pol2,none,none,1,pol2_st8_xt71.bam,Input,input_st6to12_xt71.bam,./xenTro71/supplementary_files/pol2_st6to12_crm.bed,bed
+Pol2_st8p,XenTro_st8p,Pol2,none,none,1,pol2_st8p_xt71.bam,Input,input_st6to12_xt71.bam,./xenTro71/supplementary_files/pol2_st6to12_crm.bed,bed
+Pol2_st11,XenTro_st11,Pol2,none,none,1,pol2_st11_xt71.bam,Input,input_st6to12_xt71.bam,./xenTro71/supplementary_files/pol2_st6to12_crm.bed,bed
+Pol2_st12p,XenTro_st12p,Pol2,none,none,1,pol2_st12p_xt71.bam,Input,input_st6to12_xt71.bam,./xenTro71/supplementary_files/pol2_st6to12_crm.bed,bed

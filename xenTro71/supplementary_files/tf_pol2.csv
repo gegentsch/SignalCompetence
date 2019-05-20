@@ -1,0 +1,15 @@
+SampleID,Tissue,Factor,Condition,Treatment,Replicate,bamReads,ControlID,bamControl,Peaks,PeakCaller
+pol2_st6,xenTro_st6,Pol2,wild-type,none,1,pol2_st6_xt71.bam,Input,input_st6to20_xt71.bam,./xenTro71/supplementary_files/tf_top2K_peakScoreMin20.bed,bed
+pol2_st7,xenTro_st7,Pol2,wild-type,none,1,pol2_st7_xt71.bam,Input,input_st6to20_xt71.bam,./xenTro71/supplementary_files/tf_top2K_peakScoreMin20.bed,bed
+pol2_st8,xenTro_st8,Pol2,wild-type,none,1,pol2_st8_xt71.bam,Input,input_st6to20_xt71.bam,./xenTro71/supplementary_files/tf_top2K_peakScoreMin20.bed,bed
+pol2_st8p,xenTro_stp,Pol2,wild-type,none,1,pol2_st8p_xt71.bam,Input,input_st6to20_xt71.bam,./xenTro71/supplementary_files/tf_top2K_peakScoreMin20.bed,bed
+pol2_st11,xenTro_st11,Pol2,wild-type,none,1,pol2_st11_xt71.bam,Input,input_st6to20_xt71.bam,./xenTro71/supplementary_files/tf_top2K_peakScoreMin20.bed,bed
+pol2_st12p,xenTro_st12p,Pol2,wild-type,none,1,pol2_st12_xt71.bam,Input,input_st6to20_xt71.bam,./xenTro71/supplementary_files/tf_top2K_peakScoreMin20.bed,bed
+Sox3_st8,xenTro_st8,Sox3,wild-type,none,1,sox3_st8_xt71.bam,Input,input_st6to20_xt71.bam,./xenTro71/supplementary_files/tf_top2K_peakScoreMin20.bed,bed
+Sox3_st10p,xenTro_st10p,Sox3,wild-type,none,1,sox3_st10p_xt71.bam,Input,input_st6to20_xt71.bam,./xenTro71/supplementary_files/tf_top2K_peakScoreMin20.bed,bed
+Sox3_st12p,xenTro_st12p,Sox3,wild-type,none,1,sox3_st12p_xt71.bam,Input,input_st6to20_xt71.bam,./xenTro71/supplementary_files/tf_top2K_peakScoreMin20.bed,bed
+Smad2_st8,xenTro_st8,Smad2,wild-type,none,1,smad2_st8_xt71.bam,Input,input_st6to20_xt71.bam,./xenTro71/supplementary_files/tf_top2K_peakScoreMin20.bed,bed
+Smad2_st10p,xenTro_st10p,Smad2,wild-type,none,1,smad2_st10p_xt71.bam,Input,input_st6to20_xt71.bam,./xenTro71/supplementary_files/tf_top2K_peakScoreMin20.bed,bed
+Smad1_st8p,xenTro_st8p,Smad1,wild-type,none,1,smad1_st8p_xt71.bam,Input,input_st6to20_xt71.bam,./xenTro71/supplementary_files/tf_top2K_peakScoreMin20.bed,bed
+Smad1_st10p_1,xenTro_st10p,Smad1,wild-type,none,1,smad2_st10p_1_xt71.bam,Input,input_st6to20_xt71.bam,./xenTro71/supplementary_files/tf_top2K_peakScoreMin20.bed,bed
+Smad1_st10p_2,xenTro_st10p,Smad1,wild-type,none,1,smad2_st10p_2_xt71.bam,Input,input_st6to20_xt71.bam,./xenTro71/supplementary_files/tf_top2K_peakScoreMin20.bed,bed

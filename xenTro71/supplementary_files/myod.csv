@@ -1,0 +1,10 @@
+SampleID,Tissue,Factor,Condition,Treatment,Replicate,bamReads,ControlID,bamControl,Peaks,PeakCaller
+MyoD-HA_st10p,xenTro_st10p,MyoD,wild-type,MyoD-HA,1,myod-ha_st10p_myodOE_xt71.bam,Input,input_st6to20_xt71.bam,./xenTro71/supplementary_files/myod_peaksScoreMin20.bed,bed
+Sox3_MyoD-HA_st10p,xenTro_st10p,Sox3,wild-type,MyoD-HA,1,sox3_st10_myodOE_xt71.bam,Input,input_st6to20_xt71.bam,./xenTro71/supplementary_files/myod_peaksScoreMin20.bed,bed
+Pol2_MyoD-HA_st10p,xenTro_st10p,Pol2,wild-type,MyoD-HA,1,pol2_st10_myodOE_xt71.bam,Input,input_st6to20_xt71.bam,./xenTro71/supplementary_files/myod_peaksScoreMin20.bed,bed
+Sox3_st8,xenTro_st8,Sox3,wild-type,none,1,sox3_st8_xt71.bam,Input,input_st6to20_xt71.bam,./xenTro71/supplementary_files/myod_peaksScoreMin20.bed,bed
+Sox3_st10p,xenTro_st10p,Sox3,wild-type,none,1,sox3_st10p_xt71.bam,Input,input_st6to20_xt71.bam,./xenTro71/supplementary_files/myod_peaksScoreMin20.bed,bed
+Sox3_st12p,xenTro_st12p,Sox3,wild-type,none,1,sox3_st12p_xt71.bam,Input,input_st6to20_xt71.bam,./xenTro71/supplementary_files/myod_peaksScoreMin20.bed,bed
+Pol2_st8,xenTro_st8,Pol2,wild-type,none,1,pol2_st8_xt71.bam,Input,input_st6to20_xt71.bam,./xenTro71/supplementary_files/myod_peaksScoreMin20.bed,bed
+Pol2_st11,xenTro_st11,Pol2,wild-type,none,1,pol2_st11_xt71.bam,Input,input_st6to20_xt71.bam,./xenTro71/supplementary_files/myod_peaksScoreMin20.bed,bed
+Pol2_st12p,xenTro_st12p,Pol2,wild-type,none,1,pol2_st12p_xt71.bam,Input,input_st6to20_xt71.bam,./xenTro71/supplementary_files/myod_peaksScoreMin20.bed,bed
